@@ -19,6 +19,7 @@ After=network.target
 
 [Service]
 User=$USER
+
 Type=simple
 
 ExecStart=/root/juneogo-binaries/juneogo
